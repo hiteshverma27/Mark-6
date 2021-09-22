@@ -181,3 +181,16 @@ hr {
 .showcase-blog {
     padding-bottom: 6rem;
 }
+textarea{
+    width: 90%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+}
+#output{
+    width: 90%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    border: 1px solid black;
+}
