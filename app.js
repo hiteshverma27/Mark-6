@@ -7,7 +7,7 @@ function getTranslationURL(text){
 }
 
 function errorMsg(){
-    alert("Error occured while trying to reach server, please try again later.")
+    alert("Error occured while trying to reach server, please try again after an hour.")
 }
 
 function clickHandle(){
