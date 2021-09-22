@@ -7,7 +7,7 @@ function getTranslationURL(text){
 }
 
 function errorMsg(){
-    alert("Error occured while trying to reach server, probably we ran out of hourly allowed transaltion request limit, please try again after an hour.")
+    alert("Error occured while trying to reach server, probably we ran out of hourly allowed translation request limit, please try again after an hour.")
 }
 
 function clickHandle(){
